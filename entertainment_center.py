@@ -1,3 +1,4 @@
+# The python package imdbpie was used in this program and the repository for this can be found at: https://github.com/richardasaurus/imdb-pie
 from imdbpie import Imdb
 import fresh_tomatoes
 import media
