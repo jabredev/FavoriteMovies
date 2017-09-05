@@ -1,2 +1,2 @@
-# ud036_StarterCode
+# FavoriteMovies Website
 Source code for a Movie Trailer website.
